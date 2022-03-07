@@ -1,0 +1,22 @@
+{
+  "name": "identity-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cloudcautionx/identity-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cloudcautionx/identity-generator/issues"
+  },
+  "homepage": "https://github.com/cloudcautionx/identity-generator#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
