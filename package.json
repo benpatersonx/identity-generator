@@ -6,6 +6,13 @@
   "scripts": {
     "test": "node index.js"
   },
+  "keywords": [
+    "fake identity",
+    "identity generator",
+    "fake identity generator",
+    "id generator",
+    "fake id generator"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/benpatersonx/identity-generator.git"
