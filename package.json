@@ -1,21 +1,21 @@
 {
-  "name": "identity-generator",
+  "name": "fake-identity-generator",
   "version": "1.0.0",
   "description": "",
-  "main": "main.js",
+  "main": "index.js",
   "scripts": {
     "test": "node index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cloudcautionx/identity-generator.git"
+    "url": "git+https://github.com/benpatersonx/identity-generator.git"
   },
-  "author": "",
+  "author": "benpaterson",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cloudcautionx/identity-generator/issues"
+    "url": "https://github.com/benpatersonx/identity-generator/issues"
   },
-  "homepage": "https://github.com/cloudcautionx/identity-generator#readme",
+  "homepage": "https://github.com/benpatersonx/identity-generator#readme",
   "dependencies": {
     "node-fetch": "^2.6.0"
   }
