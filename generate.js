@@ -15,8 +15,8 @@ const generate = async() => {
     }
 
     const identityApi = await fetch('https://randomuser.me/api/')
-    .then(res => res.json())
-    .catch(e => console.error(e))
+        .then(res => res.json())
+        .catch(e => console.error(e))
 
     response.gender = identityApi.results[0].gender
     response.title = identityApi.results[0].name.title
